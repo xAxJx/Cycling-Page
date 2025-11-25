@@ -1,0 +1,16 @@
+.footer {
+  min-height: 250px;
+  background-color: mediumspringgreen;
+  text-align: center;
+  align-content: center;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-size: 56px;
+}
+
+footer p {
+  color: navy;
+  font-size: 48px;
+}

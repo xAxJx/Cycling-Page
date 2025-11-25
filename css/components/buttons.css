@@ -1,0 +1,11 @@
+.btn-primary {
+  background-color: springgreen;
+  font-weight: bold;
+  border-radius: 50px;
+  text-decoration: none;
+  padding: 15px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  border: solid 2px navy;
+}

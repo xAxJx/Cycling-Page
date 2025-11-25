@@ -1,0 +1,24 @@
+.banner {
+  background-color: pink;
+  background-size: cover;
+  background-position: center;
+  background-image: url('/images/cycling_honshu_20240809.jpg');
+  height: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner h1, .banner p {
+  color: white;
+  text-shadow: 0 0 8px black;
+}
+
+.banner h1 {
+  font-size: 64px;
+}
+
+.banner p {
+  font-size: 32px;
+}
